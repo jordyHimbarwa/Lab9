@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="seg3x02.tempconverterapi.TempConverterApiApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-17T19:36:22.218Z" hostname="Genius-Boy" time="0.355">
+  <properties/>
+  <testcase name="contextLoads()" classname="seg3x02.tempconverterapi.TempConverterApiApplicationTests" time="0.002"/>
+  <system-out><![CDATA[2026-11-17T14:36:22.220-05:00  INFO 166517 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [seg3x02.tempconverterapi.TempConverterApiApplicationTests]: TempConverterApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-11-17T14:36:22.221-05:00  INFO 166517 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration seg3x02.tempconverterapi.TempConverterApiApplication for test class seg3x02.tempconverterapi.TempConverterApiApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.1)
+
+2026-11-17T14:36:22.234-05:00  INFO 166517 --- [    Test worker] s.t.TempConverterApiApplicationTests     : Starting TempConverterApiApplicationTests using Java 21.0.13.0.3 with PID 166517 (started by jordy in /home/jordy/Documents/Fall 2026/SEG 3502/Laboratoires/Lab9/SEG3502_Lab9_Solution/SEG3502_Lab9_Starter)
+2026-11-17T14:36:22.234-05:00  INFO 166517 --- [    Test worker] s.t.TempConverterApiApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2026-11-17T14:36:22.507-05:00  INFO 166517 --- [    Test worker] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name userDetailsService
+2026-11-17T14:36:22.570-05:00  INFO 166517 --- [    Test worker] s.t.TempConverterApiApplicationTests     : Started TempConverterApiApplicationTests in 0.347 seconds (process running for 3.294)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
